@@ -9,9 +9,9 @@ function App() {
   return (
     <AppProviders>
       <div className="App">
-        {/* <Greet />
+        <Greet />
         <Application />
-        <MuiMode /> */}
+        <MuiMode />
         <Users />
       </div>
     </AppProviders>
